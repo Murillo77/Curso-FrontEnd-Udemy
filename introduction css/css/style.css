@@ -1,0 +1,67 @@
+body{
+    background-color: cadetblue;
+}
+
+.paragrafo{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+
+#titulo{
+    font-size: 50px;
+    color: purple;
+}
+
+/* Ordem das regras */
+
+#algum-titulo{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 40px;
+}
+
+h2{
+    border: 2px solid red;
+}
+
+/* NOMES DAS CORES */
+
+.color-name{
+    color:violet;
+}
+
+/* HEX */
+
+.hex{
+    color: #777;
+}
+
+/* RGB */
+
+.rgb{
+    color: rgb(255,0,0);
+}
+
+.mixed-rgb{
+    color: rgb(199,48 ,77 );
+}
+
+/* RGB-A */
+
+.rgba{
+    color: rgba(100,199, 45,1);
+}
+
+/* HSL */
+
+.hsl{
+    color: hsl(201,70%, 32%);
+}
+
+/* Background */
+
+.back{
+    background-color: #520202;
+}
